@@ -8,7 +8,8 @@ Compiling & Building
 ### Dependencies
 To compile the driver, you need to have make and a compiler installed. In addition,
 you must have the kernel headers installed. If you do not understand what this means,
-consult your distro.
+consult your distro. **Install kernel-devel**
+
 ### Compiling
 
 > make all
